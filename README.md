@@ -1,7 +1,7 @@
 # Forecasting Model of Housing Price in Shanghai
 The project aims at collecting as comprehensive data as possible of housing in Shanghai and forecasting the price by building a reliable model.<br>
 Mainly using knowledge in Data Mining and Machine Learning.<br>
-Implemented by Python.<br>
+Mainly implemented by Python.<br>
 Supported by `Anaconda`.<br>
 Some notes and instructions may be written in Chinese.
 ## Main Steps
